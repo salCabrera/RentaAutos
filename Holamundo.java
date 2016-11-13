@@ -1,3 +1,4 @@
 public static void main (String args[]){
-	System.out.println("Hola Mundo");
+	String Mensaje = "Hola Mundo";
+	System.out.println(Mensaje);
 }
